@@ -9,12 +9,17 @@ html {
 .nav a {
   text-decoration: none;
   color: #005e76;
-  border-color: #0084a6;
+  border-color: #8bc9d9;
   border-style: solid;
   border-left: none;
   border-right: none;
   border-top: none;
   border-width: .1rem;
+}
+
+.nav a:hover {
+  border-color: #005e76;
+  color: #005e76;
 }
 
 .btn {

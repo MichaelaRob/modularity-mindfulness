@@ -5,3 +5,14 @@ html {
 .japanese {
   font-family: "Noto Sans Japanese", sans-serif;
 }
+
+.nav a {
+  text-decoration: none;
+  color: #005e76;
+  border-color: #0084a6;
+  border-style: solid;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-width: .1rem;
+}

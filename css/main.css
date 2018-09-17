@@ -32,3 +32,8 @@ html {
   background-color: #8bc9d9;
   border-color: #005e76;
 }
+
+hr {
+  display: block;
+  border-color: #e2e2e2;
+}

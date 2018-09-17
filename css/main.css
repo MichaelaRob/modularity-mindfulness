@@ -24,6 +24,7 @@ html {
 
 .btn {
   border-color: #8bc9d9;
+  border-width: .1rem;
   color: #005e76;
 }
 

@@ -39,3 +39,14 @@ hr {
   display: block;
   border-color: #e2e2e2;
 }
+
+@media only screen and (min-width: 60em) {
+  h1 {
+    text-align: left;
+  }
+
+  .nav {
+    text-align: right;
+  }
+
+}

@@ -23,6 +23,10 @@ html {
   color: #0084a6;
 }
 
+.btn-ghost {
+  color: #005e76;
+}
+
 .btn {
   border-color: #8bc9d9;
   border-width: .1rem;
